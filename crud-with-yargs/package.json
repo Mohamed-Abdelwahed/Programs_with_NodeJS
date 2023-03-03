@@ -1,0 +1,19 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "this is my way try doing some crud operations using node and yargs",
+  "main": "patientCrudApp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "crud",
+    "Operations",
+    "yargs"
+  ],
+  "author": "Mohamed Abdelwahed",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.7.1"
+  }
+}
